@@ -24,6 +24,7 @@ cells.
 
 ```bash
 git clone https://github.com/jupytercalpoly/reactivepy.git
+cd reactivepy
 pip install .
 ```
 
@@ -31,6 +32,7 @@ pip install .
 
 ```bash
 git clone https://github.com/jupytercalpoly/reactivepy.git
+cd reactivepy
 pip install -e .
 ```
 
